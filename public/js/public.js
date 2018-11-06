@@ -1,4 +1,5 @@
 $(function () {
+    // 实现pc端和移动端交互
     function uaredirect(f) {
         try {
             if (document.getElementById("bdmark") != null) {
@@ -66,6 +67,7 @@ $(function () {
             }
         }
     };
-    m_url = 'm.baidiqing77.com';
+    m_url = 'image.baidu.com';
     uaredirect(window.location.href.replace(window.location.hostname, m_url));
+
 })

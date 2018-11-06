@@ -87,7 +87,7 @@ section .bj{background:#d9cda7}
 .title_03 .four ul li ul li:first-child p{display: inline-block;margin-left:13px;border: 1px dashed #8a8a8a;border-radius: 10px;font-size: 29px;color: #676566;padding:3px 8px;margin-top: 11px}
 .title_03 .four ul li ul li:last-child{margin-top:13px;}
 .title_03 .four ul li ul li:last-child p{width:290px ;text-indent: 2em;}
-.title_04 .bj_04{background: url(../images/tradi_pro.jpg) no-repeat 247px center;height: 450px;margin-top: 10px	;position:relative }
+.title_04 .bj_04{background: url(../../product/public/img/tradi_pro.jpg) no-repeat 247px center;height: 450px;margin-top: 10px	;position:relative }
 .title_04 .bj_04 ul{width: 245px;margin-top: 8px;}
 #dvmq ul{padding-top: 4px}
 #dvmq li{line-height: 20px;color: #4c4f53;font-size: 14px;text-indent:2em;}
